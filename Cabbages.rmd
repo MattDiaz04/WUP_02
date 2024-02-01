@@ -51,7 +51,7 @@ C52 cultivation shows higher levels of vitamin c than c39.
 favstats(VitC~Cult, data=veggy)
 ```
 
-This table shows that the mean for c39 is 51.5 and the mean for c52 is 64.4. 
+This table shows that the mean for c39 is 52 and the mean for c52 is 65. This means that on average, c52 produces more vitamin c than c39.
 
 ## Inferential Results
 
