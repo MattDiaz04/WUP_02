@@ -41,7 +41,8 @@ Predict VitC based on cultivation method. VitC is numerical, Cult is categorical
 plot(VitC~Cult, data=veggy)
 ```
 
-C52 cultivation shows higher levels of cultivation than c39. 
+C52 cultivation shows higher levels of vitamin c than c39. 
+
 ### Numerical Descriptive Results
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
